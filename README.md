@@ -1,7 +1,7 @@
 ## You Jin / Flamingo 🦩
 ### Unity Client Programmer
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinnnnnnn&theme=default_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinnnnnnn&theme=default_icons=true&include_all_commits=true)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugenie0609)](https://solved.ac/ugenie0609/)
 

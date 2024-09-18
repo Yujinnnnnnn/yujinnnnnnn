@@ -1,4 +1,7 @@
-## Hi there 👋
+## You Jin / Flamingo 🦩
+### Unity Client Programmer
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinnnnnnn&theme=default_icons=true)
 
 <!--
 **Yujinnnnnnn/yujinnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

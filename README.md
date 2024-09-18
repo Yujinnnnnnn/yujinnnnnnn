@@ -1,11 +1,11 @@
 ## You Jin / Flamingo 🦩
 ### Unity Client Programmer
-
+<!--
 ![Jin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujinnnnnnn&count_private=true&show_icons=true&theme=default&hide=issues&include_all_commits=true)
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ugenie0609)](https://solved.ac/ugenie0609/)
-
+-->
 <!--
 **Yujinnnnnnn/yujinnnnnnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
